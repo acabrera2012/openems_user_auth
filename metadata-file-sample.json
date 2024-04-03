@@ -1,0 +1,33 @@
+[
+  {
+    "username": "adminx",
+    "password": "adminx1234!",
+    "name": "Admin X",
+    "role": "ADMIN"
+  },
+  {
+    "username": "ownerx",
+    "password": "ownerx1234!",
+    "name": "Owner X",
+    "role": "OWNER"
+  },
+  {
+    "username": "installerx",
+    "password": "installerx1234!",
+    "name": "Installer X",
+    "role": "INSTALLER"
+  },
+  {
+    "username": "userx",
+    "password": "userx1234!",
+    "name": "User X",
+    "role": "GUEST"
+  },
+  {
+    "username": "usery",
+    "password": "usery1234!",
+    "name": "User Y",
+    "role": "GUEST",
+    "edgeApikey": "edge00"
+  }
+]

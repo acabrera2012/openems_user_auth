@@ -1,0 +1,5 @@
+= Meter
+
+link:https://github.com/OpenEMS/openems/blob/develop/io.openems.edge.meter.api/src/io/openems/edge/meter/api/ElectricityMeter.java[ElectricityMeter icon:code[]]::
+An electricity meter.
+// TODO add channels
